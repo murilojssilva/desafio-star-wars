@@ -1,6 +1,6 @@
 # Star Wars Vue
 
-##Descrição
+## Descrição
 
 Projeto utilizando a API SWAPI que mostra os planetas presentes nos filmes de Star Wars.
 
