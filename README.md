@@ -12,3 +12,11 @@ Para rodar o projeto
 yarn install
 yarn serve
 ```
+
+## Heroku
+
+Para visualizar o projeto, acesse:
+
+```
+https://star-wars-vue.herokuapp.com/
+```
